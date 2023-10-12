@@ -1,4 +1,4 @@
-Microservices for to Online Shopping Application
+#Microservices for to Online Shopping Application
 We will cover :
 - Service Discovery
 - Centralized Configuration
@@ -8,7 +8,7 @@ We will cover :
 - Circuit Breaker
 - Secure Micro-service Using Key-cloak.
 
-Video Parts -> InterProcessCommunication, Service Discovery using Netflix Eureka, Implementing Api gateway using Spring Cloud Gateway, Secure Microservices using Keycloak, Implementing Circuit Breaker, Implementing Distributed tracing, event driven architecture using Kafka, Dockerize Application and Monitoring micro services using Prometheus and Grafana.
+InterProcessCommunication, Service Discovery using Netflix Eureka, Implementing Api gateway using Spring Cloud Gateway, Secure Microservices using Keycloak, Implementing Circuit Breaker, Implementing Distributed tracing, event driven architecture using Kafka, Dockerize Application and Monitoring micro services using Prometheus and Grafana.
 
 Microservices-New is a comprehensive online shopping application project that incorporates features such as Spring Cloud Netflix Eureka, Keycloak, Spring Security, and Dockerization. It aims to provide a high-performance and scalable architecture by embracing the microservices architecture.
 The project is composed of five different microservices:
